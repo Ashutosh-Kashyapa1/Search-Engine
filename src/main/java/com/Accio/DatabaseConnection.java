@@ -9,9 +9,9 @@ public class DatabaseConnection {
        if(connection!=null){
            return connection;
        }
-       String db ="sql6580734";
-       String user ="sql6580734";
-       String pwd="JpM3cyldmx";
+       String db ="sql6580968";
+       String user ="sql6580968";
+       String pwd="veBw2ZJ8XU";
                return getConnection(db,user,pwd);
     }
     private static Connection getConnection(String db,String user,String pwd){
